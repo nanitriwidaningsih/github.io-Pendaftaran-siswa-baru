@@ -8,7 +8,7 @@ Nama: <input type="text" name="nama" value="Nama Kamu" />
 Password: <input type="password" name="password" />
 <br />
  
-Jenis Kelamin : 
+Jenis Kelamin :<br> 
 <input type="radio" name="jenis_kelamin" value="laki-laki" checked /> 
 Laki - Laki
 <input type="radio" name="jenis_kelamin" value="perempuan" /> 
