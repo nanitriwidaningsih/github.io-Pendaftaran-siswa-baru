@@ -34,7 +34,7 @@ Form pendaftaran
 <option value="2009">2009</option>
 <option value="2010">2010</option>
 </select></td></tr>
-<tr><td><b>Alamat</b></td><td><textarea name="alamat" cols="30" rows="4"></textarea></td></tr>
+<tr><td><b>Alamat</b></td><td><textarea 
 <tr><td><b>Kelurahan</b></td><td><input type="text" name="kelurahan" size="30" maxlength="50"/></td></tr>
 <tr><td><b>Kecamatan</b></td><td><input type="text" name="kecamatan" size="30" maxlength="50"/></td></tr>
 <tr><td><b>Kota</b></td><td><input type="text" name="kota" size="30" maxlength="50"/></td></tr>
