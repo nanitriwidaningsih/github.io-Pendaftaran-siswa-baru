@@ -1,12 +1,12 @@
 # github.io-Pendaftaran-siswa-baru
 Form pendaftaran
 <html>
-<head><title>Form Pendaftaran Mahasiswa Baru</title>
+<head><title>Form Pendaftaran siswa Baru</title>
 </head>
 <body>
 <form action="insert.php" method="POST">
 <table border='1' width='35%' cellpadding='2'  cellspacing='2' align='center' bgcolor="#FFFFF">
-<caption><h2>Formulir Pendaftaran Mahasiswa Baru</h2></caption>
+<caption><h2>Formulir Pendaftaran siswa Baru</h2></caption>
 <tr><td><b>Nama</b></td><td><input type="text" name="nama" size="30" maxlength="50"/></td></tr>
 <tr><td><b>Jenis Kelamin</b></td><td><input type="radio" name="jenis_kelamin" value="pria"/><label for="jenis_kelamin">Pria</label>
 <input type="radio" name="jenis_kelamin" value="wanita"/><label for="jenis_kelamin">Wanita</label>
