@@ -11,7 +11,7 @@ Form pendaftaran
 <tr><td><b>Jenis Kelamin</b></td><td><input type="radio" name="jenis_kelamin" value="pria"/><label for="jenis_kelamin">Pria</label>
 <input type="radio" name="jenis_kelamin" value="wanita"/><label for="jenis_kelamin">Wanita</label>
 </td></tr>
-<tr><td><b>Status</b></td><td>
+<tr><td><b>Hobi</b></td><td>
 </select>
 </td></tr>
 <tr><td><b>Lulusan Sekolah<b/></td><td><input type="text" name="sekolah" size="30" maxlength="50"/></td></tr>
@@ -34,7 +34,6 @@ Form pendaftaran
 <option value="2009">2009</option>
 <option value="2010">2010</option>
 </select></td></tr>
-<tr><td><b>Pekerjaan</b></td><td><input type="text" name="pekerjaan" size="30" maxlength="50"/></td></tr>
 <tr><td><b>Alamat</b></td><td><textarea name="alamat" cols="30" rows="4"></textarea></td></tr>
 <tr><td><b>Kelurahan</b></td><td><input type="text" name="kelurahan" size="30" maxlength="50"/></td></tr>
 <tr><td><b>Kecamatan</b></td><td><input type="text" name="kecamatan" size="30" maxlength="50"/></td></tr>
