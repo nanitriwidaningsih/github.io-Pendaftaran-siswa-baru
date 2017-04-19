@@ -12,10 +12,6 @@ Form pendaftaran
 <input type="radio" name="jenis_kelamin" value="wanita"/><label for="jenis_kelamin">Wanita</label>
 </td></tr>
 <tr><td><b>Status</b></td><td>
-<select name="status">
-<option value="Pilih Status Anda">Pilih Status Anda</option>
-<option value="menikah">Menikah</option>
-<option value="single">Single</option>
 </select>
 </td></tr>
 <tr><td><b>Lulusan Sekolah<b/></td><td><input type="text" name="sekolah" size="30" maxlength="50"/></td></tr>
